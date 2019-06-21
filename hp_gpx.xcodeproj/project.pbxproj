@@ -28,6 +28,7 @@
 		8A90D4A122BC2CA60027F4C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A90D4A422BC2CA60027F4C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A90D4A622BC2CA60027F4C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A90D4AC22BC2D1E0027F4C9 /* cp2.2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = cp2.2.gpx; path = "../pokemon_gpx-master/cp2.2.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		8A90D48822BC2CA50027F4C9 = {
 			isa = PBXGroup;
 			children = (
+				8A90D4AC22BC2D1E0027F4C9 /* cp2.2.gpx */,
 				8A90D49322BC2CA50027F4C9 /* hp_gpx */,
 				8A90D49222BC2CA50027F4C9 /* Products */,
 			);
@@ -295,7 +297,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UJBSBJQ26X;
+				DEVELOPMENT_TEAM = 32H24EKY3R;
 				INFOPLIST_FILE = hp_gpx/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -313,7 +315,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UJBSBJQ26X;
+				DEVELOPMENT_TEAM = 32H24EKY3R;
 				INFOPLIST_FILE = hp_gpx/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
