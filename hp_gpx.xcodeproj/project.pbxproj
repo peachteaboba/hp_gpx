@@ -18,6 +18,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A7126E222BC71BD00BDB64E /* cp2.3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = cp2.3.gpx; path = gpx/cp2.3.gpx; sourceTree = "<group>"; };
+		8A7126E322BC741100BDB64E /* cp3.1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = cp3.1.gpx; path = gpx/cp3.1.gpx; sourceTree = "<group>"; };
+		8A7126E422BC74F400BDB64E /* cp3.2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = cp3.2.gpx; path = gpx/cp3.2.gpx; sourceTree = "<group>"; };
 		8A90D49122BC2CA50027F4C9 /* hp_gpx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hp_gpx.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A90D49422BC2CA50027F4C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A90D49622BC2CA50027F4C9 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -45,6 +48,9 @@
 		8A90D48822BC2CA50027F4C9 = {
 			isa = PBXGroup;
 			children = (
+				8A7126E422BC74F400BDB64E /* cp3.2.gpx */,
+				8A7126E322BC741100BDB64E /* cp3.1.gpx */,
+				8A7126E222BC71BD00BDB64E /* cp2.3.gpx */,
 				8A90D4AC22BC2D1E0027F4C9 /* cp2.2.gpx */,
 				8A90D49322BC2CA50027F4C9 /* hp_gpx */,
 				8A90D49222BC2CA50027F4C9 /* Products */,
